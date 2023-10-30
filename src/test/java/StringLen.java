@@ -8,5 +8,6 @@ public class StringLen {
     String string = "Hello, World!";
     int actualLength = string.length();
     assertTrue(actualLength >= 10, "String length is less than 15 characters");
+
   }
 }
